@@ -49,7 +49,7 @@ src/
         └── application.properties
 ```
 
-## 🔄 Application Flow
+##  Application Flow
 
  
 User
@@ -65,7 +65,7 @@ Hibernate
 MySQL Database
 ```
   
-##  Future Improvements
+## Future Improvements
 
 * User authentication and authorization
 * Todo categories and priorities
@@ -74,7 +74,7 @@ MySQL Database
 * REST API integration
 * Responsive UI improvements
 
-## 👨‍💻 Author
+##  Author
 
 **PALEPOGU NAGAMALLESWARA RAO**
 
