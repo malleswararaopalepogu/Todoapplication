@@ -66,6 +66,15 @@ body{
     color: #ff6a00;
     font-size: 18px;
 }
+.delete-btn {
+    color: #666;
+    background: none;
+    border: none;
+}
+.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
 
 
 
